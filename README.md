@@ -1,1 +1,3 @@
-# optimisez_gestion_donn-es_boutique_python
+# Optimisation de la gestion des données d'une boutique Python
+
+
