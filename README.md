@@ -10,6 +10,8 @@ L'entreprise utilise un ERP non relié au site de vente en ligne. Les données s
 
 ##### - Data wrangling : Repprochement de l'export de l’ERP (références produit, prix de vente, état de stock) et de l'export de l’outil de CMS contenant les informations des produits commercialisés en ligne (nom, description, nombre de ventes, etc.)
 
+Code et dataframe obtenu visibles sur le [notebook ](optimisation_gestion_donnees_boutique_python/blob/main/ophauz_optimisation_gestion_donnees_boutique_python_notebook.ipynb)
+
 ##### - Analyse : obtention du chiffre d’affaires par produit, ainsi que le total du chiffre d’affaires réalisé en ligne
 
 ![p5_2](https://user-images.githubusercontent.com/87067133/217580610-997adf35-7cc5-471e-9b7e-d12108e32831.png)
