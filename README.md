@@ -1,4 +1,4 @@
-# Optimisation de la gestion des données d'une boutique avec Python
+## Optimisation de la gestion des données d'une boutique avec Python
 
 ![p5_1](https://user-images.githubusercontent.com/87067133/217518705-671a3790-aa3c-4980-85cf-1888e6166bef.png)
 
@@ -10,7 +10,7 @@ L'entreprise utilise un ERP non relié au site de vente en ligne. Les données s
 
 ##### - Data wrangling : Repprochement de l'export de l’ERP (références produit, prix de vente, état de stock) et de l'export de l’outil de CMS contenant les informations des produits commercialisés en ligne (nom, description, nombre de ventes, etc.)
 
-Code et dataframe obtenu visibles sur le [notebook ](ophauz_optimisation_gestion_donnees_boutique_python_notebook.ipynb) du projet.
+Code et dataframe obtenu visibles sur le [notebook](ophauz_optimisation_gestion_donnees_boutique_python_notebook.ipynb) du projet.
 
 ##### - Analyse : obtention du chiffre d’affaires par produit, ainsi que le total du chiffre d’affaires réalisé en ligne
 
