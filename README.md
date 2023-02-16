@@ -15,12 +15,12 @@ Code et dataframe obtenu visibles sur le [notebook](ophauz_optimisation_gestion_
 ##### - Analyse : obtention du chiffre d’affaires par produit, ainsi que le total du chiffre d’affaires réalisé en ligne
 
 ![p5_2](https://user-images.githubusercontent.com/87067133/217580610-997adf35-7cc5-471e-9b7e-d12108e32831.png)
-![p5_3](https://user-images.githubusercontent.com/87067133/217580630-3917fa9f-846a-41f5-a700-1b959e9451c7.png)
+![p5_3](https://user-images.githubusercontent.com/87067133/219487663-0a2fa009-aa58-4b86-b8c8-89b4b9a712e8.png)
 
 
 ##### - Data cleaning : Recherche d'éventuelles erreurs de saisie dans certains prix des produits
 
-![p5_4](https://user-images.githubusercontent.com/87067133/217580682-37b59366-b91b-4ad9-bbfc-cdf7f5f55fb9.png)
+![p5_4](https://user-images.githubusercontent.com/87067133/219487695-2aa4ddbe-b35b-465b-97d8-402a95ff6253.png)
 ![p5_5](https://user-images.githubusercontent.com/87067133/217580690-15c722b8-a71f-4ffa-acee-a56b6f6d8dc6.png)
 
 
