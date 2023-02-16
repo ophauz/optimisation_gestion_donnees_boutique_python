@@ -20,7 +20,7 @@ Code et dataframe obtenu visibles sur le [notebook](ophauz_optimisation_gestion_
 
 ##### - Data cleaning : Recherche d'éventuelles erreurs de saisie dans certains prix des produits
 
-![p5_4](https://user-images.githubusercontent.com/87067133/219487695-2aa4ddbe-b35b-465b-97d8-402a95ff6253.png)
+![p5_4](https://user-images.githubusercontent.com/87067133/219487926-0916cf02-d11c-49fb-99e7-156b509b8ed0.png)
 ![p5_5](https://user-images.githubusercontent.com/87067133/217580690-15c722b8-a71f-4ffa-acee-a56b6f6d8dc6.png)
 
 
